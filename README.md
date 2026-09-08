@@ -1,4 +1,4 @@
-# Emails used in Study for Take9 Project
+# Emails used in Take9 Study
 
 ### Images
 
