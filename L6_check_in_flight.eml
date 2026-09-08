@@ -1,0 +1,385 @@
+MIME-Version: 1.0
+Subject: Check in now for your flight to Boston
+From: United Airlines <notifications@united.com>
+To: Billie Jones <bjones@mkitchen.com>
+Content-Type: text/html; charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><html xmlns:date="http://exslt.org/dates-and-times" xmlns:em="http://ual.com/raven/email/emailmessage" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>United Airlines - United MileagePlus</title>
+        <link href="https://www.united.com/ual/favicon.ico" rel="shortcut icon" type="image/x-icon">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta content="IE=edge" http-equiv="X-UA-Compatible">
+        <meta content="width=device-width, initial-scale=1.0 " name="viewport">
+        <meta content="telephone=no" name="format-detection">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet" type="text/css">
+        <style type="text/css">.np_body{font-family:Arial,Helvetica,sans-serif;font-size:18px!important;line-height:22px!important;color:#000;word-break:auto-phrase}.np_inline_link{font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700;text-decoration:underline;color:#000}.np_superscript{font-family:Arial,Helvetica,sans-serif;font-size:13.5px!important}.np_heading1{font-family:Arial,Helvetica,sans-serif;font-size:36px;line-height:42px;margin:0;padding:0}.np_heading2{font-family:Arial,Helvetica,sans-serif;font-size:28px;line-height:34px;margin:0;padding:0}.np_heading3{font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:26px;margin:0;padding:0}.np_small_text_heading{font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;font-weight:700}.np_small_text{font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px}.np_small_link{font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;font-weight:700;color:#000;text-decoration:underline}.body{margin:0;padding:0;-webkit-text-size-adjust:100%!important;-ms-text-size-adjust:100%!important;-webkit-font-smoothing:antialiased!important}img{border:0!important;outline:0!important}p{Margin:0!important;Padding:0!important}table{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}a,span,td{border-collapse:collapse;mso-line-height-rule:exactly}table th{margin:0!important;padding:0!important}.ExternalClass *{line-height:100%}.em_defaultlink a{color:inherit;text-decoration:none}.lhfix{mso-line-height-rule:exactly!important}.aClass:active,.aClass:focus,.aClass:hover{outline-style:solid;outline-width:3px;outline-color:#0033a0}.em_menu{font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:20px;color:#1414d2;font-weight:700}.ft_menu{font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:16px;color:#93b7f8}.imghide{max-height:0;font-size:0;display:none;overflow:hidden}[id=x_hide-outlook-mess]{display:block!important}body[data-outlook-cycle] .oa{display:block!important}.mobileContent{display:none;font-size:0;max-height:0;line-height:0;mso-hide:all;width:0;overflow:hidden;max-height:0!important}
+    /*media query*/
+    @media only screen and (min-width:481px) and (max-width:667px) {
+    .em_main_table { width: 100% !important; }
+    .em_wrapper { width: 100% !important; }
+    .em_hide { display: none !important; }
+    .em_img {width: 100% !important;height: auto !important;}
+    .em_full_img { width: 100% !important; height: auto !important; }
+    .em_full_img img { width: 100% !important; height: auto !important; }
+    .em_center { text-align: center !important; }
+    .em_side15 { width: 15px !important; }
+    .em_aside15 { padding: 0px 15px !important; } /* update the N number as per width */
+    .em_aside30 { padding: 0px 30px !important; }
+    .em_clear { clear: both !important; width: 100% !important; display: block !important; }
+    .em_asidenone { padding: 0px !important; }
+    .em_full_img1 { width: 100% !important; height: auto !important; max-width: none !important; }
+    .em_full_img1 img { width: 100% !important; height: auto !important; max-width: none !important; }
+    .em_menu { font-size: 14px !important; line-height: 60px !important; border-bottom: 2px solid #ffffff !important; }
+    .ft_menu { border-bottom: 1px solid #242424 !important; line-height: 32px !important;}
+    .ft_menu a {margin: 0 24px;}
+    .em_h5 { height: 10px !important; }
+    .em_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+    .em_wrapper3 { width: 100% !important; display: block !important; text-align: center !important; vertical-align: middle !important; border-top: 1px solid #ffffff !important; padding-top: 15px !important; padding-bottom: 15px !important; }
+    .em_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+   
+    .heightAuto {height:auto !important;}
+    .center {text-align:center !important;}
+    #em_drop:checked + .inn { margin-top: 0%; }
+    #em_drop1:checked + .inn { margin-top: 0%; }
+    #em_drop2:checked + .inn { margin-top: 0%; }
+    #em_drop3:checked + .inn { margin-top: 0%; }
+    .link { position: relative !important; width: 100% !important; padding: 0px !important; right: 0px !important; top: 0px !important; overflow: hidden !important; transition: all 1.0s ease-in-out 0s; -webkit-transition: all 1.0s ease-in-out 0s; -o-transition: all 1.0s ease-in-out 0s; height: auto !important; }
+    .inn { transition: all 1.0s ease-in-out 0s; -webkit-transition: all 1.0s ease-in-out 0s; -o-transition: all 1.0s ease-in-out 0s; margin-top: -220px; padding: 0px !important; overflow: hidden !important; }
+    .em_hauto { height: auto !important; }
+    .em_h30 { height: 30px !important; }
+    .em_bom {padding: 0px 0px 5px 0px !important;}
+
+    /*Hamburger Menu*/
+    .showme{ display:block !important; width: auto !important; overflow: visible !important; float: none !important; max-height:inherit !important; max-width:inherit !important; line-height: auto !important; margin-top:0px !important; visibility:inherit !important;}
+    /*B01*/
+    #nav_handle_b { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 0 no-repeat; background-size:38px 104px !important; cursor: pointer; display: block !important; width:38px !important; height:52px !important; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #nav_menu_b { background-color: #002244; max-height: 0; overflow: hidden; transition: max-height .25s linear; }
+    #nav_menu_b a { display:block; padding:0px 20px; text-decoration:none; font-family:  Helvetica, Arial; font-size:14px; font-weight: bold; }
+    #nav_checkbox_b { display:none !important; }
+    #nav_checkbox_b:checked + table #nav_handle_b { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 -50px no-repeat; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #nav_checkbox_b:checked + table ~ #nav_menu_b { display:block !important; max-height: 580px !important; }
+    .mobile_header_logo_b { position: absolute;top: 0px;}
+    /*B02*/
+    #nav_menu2 { background-color: #2a333b; max-height: 0; overflow: hidden; transition: max-height .25s linear; }
+    #nav_handle2 { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 0 no-repeat; background-size:38px 104px !important; cursor: pointer; display: block !important; width:38px !important; height:52px !important; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #em_drop2:checked + div table #nav_handle2 { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 -50px no-repeat; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #em_drop2:checked ~ #nav_menu2 { display:block !important; max-height: 250px !important; }
+    /*B02*/
+    [id="x_hide-outlook-mess"] {
+    display:block !important;}
+    }
+
+    /*media query*/
+    @media screen and (max-width: 480px) {
+     .lihide { display: none !important; } 
+    .lishow { display: table-row !important; }
+    .imgResize2 {
+    background-image: url("https://static.cdn.responsys.net/i2/responsysimages/content/united/sp.png") !important;
+    background-color:#002244 !important;
+    width: 414px !important;
+    height: auto !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    }
+    .A06BG {height: auto !important; width: 414px !important; background-size: 100% auto !important;}
+    .VMLHEROBG {height: auto !important; width: 100% !important; }
+    .em_h465 { height: 465px !important; }
+    .em_wrapper_25 { width: 25% !important; min-width: 20px !important;  }
+    .em_main_table { width: 100% !important; }
+    .em_wrapper { width: 100% !important; }
+    .em_hide { display: none !important; }
+    .em_img {width: 100% !important;height: auto !important;}
+    .em_full_img { width: 100% !important; height: auto !important; }
+    .em_full_img img { width: 100% !important; height: auto !important; }
+    .em_center { text-align: center !important; }
+    .em_side15 { width: 15px !important; }
+    .em_aside15 { padding: 0px 15px !important; } /* update the N number as per width */
+    .em_aside30 { padding: 0px 30px !important; }
+    .em_clear { clear: both !important; width: 100% !important; display: block !important; }
+    u + .em_body .em_full_wrap { width: 100% !important; width: 100vw !important; }
+    .em_asidenone { padding: 0px !important; }
+    .em_full_img1 { width: 100% !important; height: auto !important; max-width: none !important; }
+    .em_full_img1 img { width: 100% !important; height: auto !important; max-width: none !important; }
+    .em_menu { font-size: 14px !important; line-height: 60px !important; border-bottom: 2px solid #ffffff !important; }
+    .ft_menu { border-bottom: 1px solid #242424 !important; line-height: 32px !important;}
+    .ft_menu a {margin: 0 24px;}
+    .width480 {width:480px !important;}
+    .width374 {width:374px !important;}
+    .width280 {width:280px !important;}
+    .em_hide1 { display: none !important; }
+    .em_br { display: block !important; }
+    .centercenter {margin-left: auto!important;margin-right: auto !important;padding: 0 !important;}
+    .imghide { max-height: none !important; font-size: 12px !important; display: block !important; }
+    .heightAuto {height:auto !important;}
+    .center {text-align:center !important;}
+    .em_h5 { height: 10px !important; }
+    .em_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+    .em_wrapper3 { width: 100% !important; display: block !important; text-align: center !important; vertical-align: middle !important; border-top: 1px solid #ffffff !important; padding-top: 15px !important; padding-bottom: 15px !important; }
+    .em_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+    .em_hauto { height: auto !important; }
+    .em_h30 { height: 30px !important; }
+    .em_h25 { height: 25px !important; }
+    .em_bg { background-image: none !important; height: auto !important; }
+    .em_bom {padding: 0px 0px 5px 0px !important;}
+    /*Hamburger Menu*/
+    .showme{ display:block !important; width: auto !important; overflow: visible !important; float: none !important; max-height:inherit !important; max-width:inherit !important; line-height: auto !important; margin-top:0px !important; visibility:inherit !important;}
+    #em_drop:checked + .inn { margin-top: 0%; }
+    #em_drop1:checked + .inn { margin-top: 0%; }
+    #em_drop2:checked + .inn { margin-top: 0%; }
+    #em_drop3:checked + .inn { margin-top: 0%; }
+    .link { position: relative !important; width: 100% !important; padding: 0px !important; right: 0px !important; top: 0px !important; overflow: hidden !important; transition: all 1.0s ease-in-out 0s; -webkit-transition: all 1.0s ease-in-out 0s; -o-transition: all 1.0s ease-in-out 0s; height: auto !important; }
+    .inn { transition: all 1.0s ease-in-out 0s; -webkit-transition: all 1.0s ease-in-out 0s; -o-transition: all 1.0s ease-in-out 0s; margin-top: -220px; padding: 0px !important; overflow: hidden !important; }
+    /*B01*/
+    #nav_handle_b { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 0 no-repeat; background-size:38px 104px !important; cursor: pointer; display: block !important; width:38px !important; height:52px !important; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #nav_menu_b { background-color: #002244; max-height: 0; overflow: hidden; transition: max-height .25s linear; }
+    #nav_menu_b a { display:block; padding:0px 20px; text-decoration:none; font-family:  Helvetica, Arial; font-size:14px; font-weight: bold; }
+    #nav_checkbox_b { display:none !important; }
+    #nav_checkbox_b:checked + table #nav_handle_b { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 -50px no-repeat; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #nav_checkbox_b:checked + table ~ #nav_menu_b { display:block !important; max-height: 580px !important; }
+    .mobile_header_logo_b { position: absolute;top: 0px;}
+    /*B02*/
+    #nav_menu2 { background-color: #2a333b; max-height: 0; overflow: hidden; transition: max-height .25s linear; }
+    #nav_handle2 { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 0 no-repeat; background-size:38px 104px !important; cursor: pointer; display: block !important; width:38px !important; height:52px !important; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #em_drop2:checked + div table #nav_handle2 { background:url("https://static.cdn.responsys.net/i2/responsysimages/content/united/tmplt_sprite_trans.png") 0 -50px no-repeat; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+    #em_drop2:checked ~ #nav_menu2 { display:block !important; max-height: 250px !important; }
+    body[data-outlook-cycle] .default {
+    display: none !important
+    }
+    body[data-outlook-cycle] .just-outlook-app {
+    display:block !important;
+    font-size: 12px !important;
+    max-height: none !important;
+    line-height: 1.5 !important;
+    mso-hide: none ;
+    width: 100%;
+    overflow:visible !important;
+    }
+
+    [id="x_hide-outlook"] {
+    display:none !important;
+    }
+    body[data-outlook-cycle] .oa {
+    display: block !important;}
+    .em_fallback { display: none; }
+    #MessageViewBody .em_fallback, body.MsgBody .em_fallback { display: block !important; }
+    [class="x_em_fallback"] {
+    display: block !important;
+    }
+    [id="x_hide-outlook-mess"] {display:block !important;}
+    [owa].oa {
+    display:block !important;
+    font-size: 12px !important;
+    max-height: none !important;
+    line-height: 1.5 !important;	}
+    u + .em_body .em_fallback { display: block !important; }
+    u + .em_body .gmail-hide { display: none !important; }
+    u + .em_body .gmail-show { display: block !important; }
+    /*B02*/
+    }
+    @media screen and (max-width:374px) {
+    .em_aside15 { padding: 0px 15px !important; } /* update the N number as per width */
+    .em_aside30 { padding: 0px 30px !important; }
+    .em_aside60 { padding: 0px 60px !important; }
+    .em_menu { font-size: 14px !important; line-height: 60px !important; border-bottom: 2px solid #ffffff !important; }
+    .ft_menu { border-bottom: 1px solid #242424 !important; line-height: 32px !important;}
+    .ft_menu a {margin: 0 24px;}
+    .em_clear { clear: both !important; width: 100% !important; display: block !important; }
+    /*B01*/
+    .mobile_header_logo_b { position: absolute;top: 0px;}
+    /*B01*/
+    }
+  </style>
+<style type="text/css">@media only screen and (max-width:670px){.fb_spacer{height:8px!important}.fb_time{font-weight:700!important;font-size:24px!important;line-height:32px!important}.fb_location{font-weight:400!important;font-size:16px!important;width:20%!important}.fb_time_duration{font-size:12px!important}.np_hide_in_mobile{display:none!important}.np_full-width{width:100% !important;display:block !important;clear:both !important;}.np_normal_line_height{ line-height: normal !important; }.header_mobile_logo_padding{padding:17px 0 18px 30px!important}.ft_logo_align{text-align:left!important}.ft_mobile_padding{padding:0 24px 24px 24px!important}.ft_mobile_cr_margin{margin-bottom:16px!important}}</style><!--[if gte mso 9]>
+<style type="text/css">
+a {text-decoration: none;}
+td, div, h1, span, a {font-family: Arial, Helvetica, sans-serif !important;
+mso-line-height-rule: exactly !important;
+}
+</style><![endif]-->
+    </head>
+    <body bgcolor="#ffffff" class="em_body" style="margin:0px auto; padding:0px;" vlink="#69b3e7">
+        <div class="main-content module-group" style="margin: 0px auto; max-width: 670px;">
+            <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="em_full_wrap" role="presentation" width="100%">
+                <tr>
+                    <td align="center" valign="top">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px;" width="670">
+                            <tr>
+                                <td align="center" valign="top"><img alt="" border="0" class="em_full_img em_hide1" height="6" src="https://media.united.com/assets/m/4e166d69b9553de8/original/Header_Desktop_TopBar.png" style="display:block;font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#FFFFFF;" width="670">
+                                    <div class="em_full_img imghide" style="max-height: 0px; font-size: 0; display: none; overflow:hidden;">
+                                        <table border="0" cellpadding="0" cellspacing="0" class="em_full_img imghide heightAuto " height="0" role="presentation" style="max-height: 0px; font-size: 0; display: none; overflow:hidden;" width="0">
+                                            <tr>
+                                                <td class="em_full_img heightAuto center"><img alt="" class="imghide em_full_img heightAuto" height="0" src="https://media.united.com/assets/m/78742e36a8d83731/original/Header-bar-mobile-1.png" width="0"></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px;" width="670">
+                <tr>
+                    <td align="left" class="header_mobile_logo_padding" style="padding: 17px 0 18px 28px;" valign="top">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:153px;" width="153">
+                            <tr>
+                                <td align="left" height="55" valign="top" width="153"><a style="text-decoration:none;"><img alt="United Airlines" border="0" height="55" src="data:image/png;base64, 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" style="margin: 0;padding: 0;display: block;width:153px;height:55px;" width="153"></a></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table align="center" bgcolor="#ebebe9" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width: 670px" width="670">
+                <tr>
+                    <td height="10" style="font-size: 1px; line-height: 1px"> </td>
+                </tr>
+            </table>
+            <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="em_full_wrap" role="presentation" width="100%">
+                <tr>
+                    <td align="center" valign="top">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px;" width="670">
+                            <tr>
+                                <td align="center" class="em_aside15" style="padding:0px 15px;" valign="top">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                                        <tr>
+                                            <td height="30" style="font-size:1px; line-height:1px;"> </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="left" class="np_body" valign="top">It’s time to check in for your flight to Boston.<br><br>Here are your trip details:<br><br> <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #d7d7d4;border-radius:10px;border-collapse:separate;max-width:620px;width:100%"> <tr> <td align="center" style="padding:16px"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="center"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td> <p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:700;line-height:1.5;margin:0;padding:0"> October 6, 2026</p> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="font-size:0;line-height:6px;height:6px"> </td> </tr> </table> <p style="font-size:12px;line-height:16px;font-weight:700;margin:0;padding:0"> UA1710  operated by United Airlines </p> </td> </tr> </table> <table role="presentation" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="height:16px" class="fb_spacer"></td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="left" style="font-size:40px;font-weight:700;color:#000;line-height:1.4" class="fb_time">7:34 am</td> <td align="center" style="width:10%"></td> <td align="right" style="font-size:40px;font-weight:700;color:#000;line-height:1.4" class="fb_time">8:34 am</td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="left" style="font-size:16px;font-weight:700;color:#000;line-height:1.5" class="fb_location" width="15%">PIT</td> <td align="center"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td valign="middle" style="height:12px;line-height:12px"> </td> <td class="fb_time_duration" rowspan="3" width="30%" style="font-size:14px;color:#555;line-height:1;font-weight:700" align="center">1H</td> <td valign="middle" style="height:12px;line-height:12px"> </td> </tr> <tr> <td valign="middle" style="border-top:1px dotted #d7d7d4;padding:0;line-height:0;max-height:0;height:0">  </td> <td valign="middle" style="border-top:1px dotted #d7d7d4;padding:0;line-height:0;max-height:0;height:0">  </td> </tr> <tr> <td valign="middle" style="height:12px;line-height:12px"> </td> <td valign="middle" style="height:12px;line-height:12px"> </td> </tr> </table> </td> <td align="right" style="font-size:16px;font-weight:700;color:#000;line-height:1.5" class="fb_location" width="15%">IAD</td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" class="np_hide_in_mobile"> <tr> <td align="left" style="font-size:16px;color:#000;line-height:1.5" width="40%"> Pittsburgh</td> <td></td> <td align="right" colspan="2" style="font-size:16px;color:#000;line-height:1.5" width="40%">Washington</td> </tr> </table> <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td style="height:8px"></td> </tr> <tr> <td align="right"> <table role="presentation" cellpadding="0" cellspacing="0" border="0"> <tr></tr> </table> </td> </tr> </table> </td> </tr> </table>  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="height:16px;line-height:16px"> </td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td width="50%" valign="middle"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="background-color:#d7d7d4; border-top:1px solid #d7d7d4; font-size:0; line-height:0;">   </td> </tr> </table> </td> <td align="center" valign="middle" style="padding:0 10px; min-width:160px; width:160px;"> <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td align="center" style="font-size:14px; font-weight:700; color:#555555; white-space:nowrap; line-height:14px;"> CONNECTION 1H </td> </tr> </table> </td> <td width="50%" valign="middle"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="background-color:#d7d7d4; border-top:1px solid #d7d7d4; font-size:0; line-height:0;">   </td> </tr> </table> </td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td height="16" style="font-size:0;line-height:0;"> </td> </tr> </table>  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="center"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td> <p style="font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:700;line-height:1.5;margin:0;padding:0"> Oct 6, 2026</p> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="font-size:0;line-height:6px;height:6px"> </td> </tr> </table> <p style="font-size:12px;line-height:16px;font-weight:700;margin:0;padding:0"> UA1946  operated by United Airlines </p> </td> </tr> </table> <table role="presentation" cellpadding="0" cellspacing="0" border="0"> <tr> <td style="height:16px" class="fb_spacer"></td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="left" style="font-size:40px;font-weight:700;color:#000;line-height:1.4" class="fb_time">9:34 am</td> <td align="center" style="width:10%"></td> <td align="right" style="font-size:40px;font-weight:700;color:#000;line-height:1.4" class="fb_time">11:25 am</td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="left" style="font-size:16px;font-weight:700;color:#000;line-height:1.5" class="fb_location" width="15%">IAD</td> <td align="center"> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td valign="middle" style="height:12px;line-height:12px"> </td> <td class="fb_time_duration" rowspan="3" width="30%" style="font-size:14px;color:#555;line-height:1;font-weight:700" align="center">1H 51M</td> <td valign="middle" style="height:12px;line-height:12px"> </td> </tr> <tr> <td valign="middle" style="border-top:1px dotted #d7d7d4;padding:0;line-height:0;max-height:0;height:0">  </td> <td valign="middle" style="border-top:1px dotted #d7d7d4;padding:0;line-height:0;max-height:0;height:0">  </td> </tr> <tr> <td valign="middle" style="height:12px;line-height:12px"> </td> <td valign="middle" style="height:12px;line-height:12px"> </td> </tr> </table> </td> <td align="right" style="font-size:16px;font-weight:700;color:#000;line-height:1.5" class="fb_location" width="15%">BOS</td> </tr> </table> <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" class="np_hide_in_mobile"> <tr> <td align="left" style="font-size:16px;color:#000;line-height:1.5" width="40%"> Washington</td> <td></td> <td align="right" colspan="2" style="font-size:16px;color:#000;line-height:1.5" width="40%">Boston</td> </tr> </table> <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td style="height:8px"></td> </tr> <tr> <td align="right"> <table role="presentation" cellpadding="0" cellspacing="0" border="0"> <tr></tr> </table> </td> </tr> </table> </td> </tr> </table>   </td> </tr> </table><br> <table border="0" cellpadding="0" cellspacing="0" style="display:table;margin:0"> <tr> <td bgcolor="#1414d2" style="border-radius:30px"><a href="https://notification.united.com/ss/c/u001.eQrT5mcy9EZAZNzos7S2UQ3HKn3YJQ2ds5HbsxLLjtp-jXIva-Zw7y-Hy1tCaD4ODzoG6tOtjXsoQflFxUyoav3IUoaVQ8sKi1XtG4iLDEvEAHtapGOqf1i5mTQ6sndtq3KPQtLov2fts8a0LGQzxw/4rh/WCiHN90dQBGphsGrQBOayQ/h1/h001.QgypY3skmUrP8-hsi-vbQoDttcbM9lZkvBpacxYppAE" target="_blank" style="display:block;font-size:18px;font-family:Arial,Helvetica,sans-serif;color:#fff;text-decoration:none;font-weight:700;padding:17px 39px;border-radius:30px;border:1px solid #fff">Check-in</a> </td> </tr> <tr> <td height="15"></td> </tr> </table>Confirmation number: AG6WJZ<br><br>Check in and add bags at home to get your digital boarding pass and skip the extra wait at the airport.<table><tr><td height="15"></td></tr></table></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <div>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" data-lt-version="3.0.0">
+        <tr><td colspan="2" align="center" style="line-height: 1px">
+            <img src="https://sli.united.com/imp?s=2006789&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=static" border="0" style="display: block; max-height: 12px !important" /></td></tr>
+        <tr class="lihide"><td colspan="2" style="line-height: 1px">
+            <a href="https://notification.united.com/ss/c/u001.Kn-MBowQXO6b87NL7nExBm9I9l9KTmRVRW-y85nOgALjF7z28ZS67wuPaHq-s8ILiOVwhM3wJy-YQV3Yy77gpq0JSUTTELRiedofUmdXHVyRuAN5Q4aCHTsDx_UjfvBlTUCp9PYMlPq5rN5bFr6Krj5jsxOJCCLJmYfvZziJXGqTepmujaBaEM-mnylIAMy2MdqFTthxIQnR0Hwxg6v_dGdi7aCwBV1zdS-yUcbXM39Y8mq8RcZA8NyAEltfg-OKHBd1Yqz2KER4-Q1MW_uxoorhAC_xRkslzEuUqWE6hEOXttCejr9lgJU7ONNYh-efzaBjN67Vti01rtPMelehjNpAEsFoAR89Z3WFg5866XQ/4rh/WCiHN90dQBGphsGrQBOayQ/h2/h001.KsgpoK5kUn2VPC5YFMDMZKwjSpG1eGwMG0MKi5k5Bxk" rel="nofollow" target="_blank">
+                <img src="https://sli.united.com/imp?s=2006785&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=default&li_coord=desktop&collapse_width=670" border="0" width="670" style="display: block; width: 100% !important; max-width: 670px !important;" class="lihide"/></a></td></tr>
+        <!--[if !mso]>-->
+        <tr style="display: none" class="lishow">
+            <td colspan="2" style="line-height: 1px">
+                <a href="https://notification.united.com/ss/c/u001.Kn-MBowQXO6b87NL7nExBm9I9l9KTmRVRW-y85nOgALjF7z28ZS67wuPaHq-s8ILiOVwhM3wJy-YQV3Yy77gpq0JSUTTELRiedofUmdXHVyRuAN5Q4aCHTsDx_UjfvBlTUCp9PYMlPq5rN5bFr6Krj5jsxOJCCLJmYfvZziJXGqTepmujaBaEM-mnylIAMy2MdqFTthxIQnR0Hwxg6v_dGdi7aCwBV1zdS-yUcbXM39Y8mq8RcZA8NyAEltfg-OKHBd1Yqz2KER4-Q1MW_uxoorhAC_xRkslzEuUqWE6hEOXttCejr9lgJU7ONNYh-efzaBjN67Vti01rtPMelehjNpAEsFoAR89Z3WFg5866XQ/4rh/WCiHN90dQBGphsGrQBOayQ/h3/h001.S4_xu7y5wyuuIg7IVSCcuGS1PgdcDp_SDW_948fTUrM" rel="nofollow" target="_blank">
+                    <img src="https://sli.united.com/imp?s=2006785&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=default&li_coord=mobile&collapse_width=480" border="0" width="480" style="display: block !important; width: 100% !important; max-width: 480px !important;"/></a></td></tr>
+        <!--<![endif]-->
+
+    </table>
+</div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="40" height="6">
+    <tbody>
+    <tr>
+        <td>
+            <img src="https://sli.united.com/imp?s=133040000&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=pixel" width="2" height="6" border="0" />
+        </td>
+        <td>
+            <img src="https://sli.united.com/imp?s=133040001&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=pixel" width="2" height="6" border="0" />
+        </td>
+        <td>
+            <img src="https://sli.united.com/imp?s=133040002&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=pixel" width="2" height="6" border="0" />
+        </td>
+        <td>
+            <img src="https://sli.united.com/imp?s=133040003&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=pixel" width="2" height="6" border="0" />
+        </td>
+        <td>
+            <img src="https://sli.united.com/imp?s=133040004&e=JENNIFER4SYTH@GMAIL.COM&p=db08eba1-9db5-4739-b061-5198af9c65fc&lctg=3ba9e6dc3da63e97993e8be69251b4cf&ucid=3ba9e6dc3da63e97993e8be69251b4cf&origin=SAN&destination=ORD&bookingclass=United+Economy&li=CKR1&stpe=pixel" width="2" height="6" border="0" />
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+            <div class="lhfix " style="line-height:30px;"> </div>
+            <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="em_full_wrap" role="presentation" width="100%">
+                <tr>
+                    <td align="center" valign="top">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px;" width="670">
+                            <tr>
+                                <td align="center" class="em_full_img" valign="top"><img alt="fly the friendly skies" border="0" class="em_full_img em_hide1" height="6" src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAoAAAAAGCAIAAADc2biYAAAAA3NCSVQICAjb4U/gAAAASElEQVRoge3VwQ2AIBQFQbF1WiH05ZlwsQEp48X8mQr2tm2s7wIK6P1NJ1DCnk864R/udAAAVGTAABBgwAAQYMAAEGDAABBwABFsBwb3szdhAAAAAElFTkSuQmCC" style="display:block;font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#000000; max-width:670px;" width="670">
+                                    <div class="em_full_img imghide" style="max-height: 0px; font-size: 0; display: none; overflow:hidden;">
+                                        <table border="0" cellpadding="0" cellspacing="0" class="em_full_img imghide heightAuto " height="0" role="presentation" style="max-height: 0px; font-size: 0; display: none; overflow:hidden;" width="0">
+                                            <tr>
+                                                <td class="em_full_img heightAuto center"><img alt="fly the friendly skies" class="imghide em_full_img heightAuto" height="0" src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAoAAAAAGCAIAAADc2biYAAAAA3NCSVQICAjb4U/gAAAASElEQVRoge3VwQ2AIBQFQbF1WiH05ZlwsQEp48X8mQr2tm2s7wIK6P1NJ1DCnk864R/udAAAVGTAABBgwAAQYMAAEGDAABBwABFsBwb3szdhAAAAAElFTkSuQmCC" width="0"></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table border="0" cellpadding="0" cellspacing="0" class="em_full_wrap" role="presentation" width="100%">
+                <tr>
+                    <td align="center" valign="top">
+                        <table align="center" bgcolor="#000" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px; background-color:#000;" width="670">
+                            <tr>
+                                <td align="center" class="em_asidenone" style="padding:16px 24px;" valign="top">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                                        <tr>
+                                            <td class="em_hide" height="6" style="font-size:1px; line-height:1px;">
+                       
+                    </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation">
+                                                    <tr>
+                                                        <th align="left" class="em_defaultlink ft_menu em_clear" valign="top"><a  style="text-decoration:underline;color: #93B7F8 !important; font-size: 12px; font-weight:400;" target="_blank">
+                              Reservations
+                            </a></th><th class="em_hide" width="8">
+                             
+                          </th><th align="left" class="em_defaultlink ft_menu em_clear" valign="top"><a style="text-decoration:underline;color: #93B7F8 !important; font-size: 12px; font-weight:400;" target="_blank">
+                              My United
+                            </a></th><th class="em_hide" width="8">
+                             
+                          </th><th align="left" class="em_defaultlink ft_menu em_clear" valign="top"><a style="text-decoration:underline;color: #93B7F8 !important; font-size: 12px; font-weight:400;" target="_blank">
+                              MileagePlus®
+                            </a></th>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table align="center" bgcolor="#E6E6E6" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px; background-color:#E6E6E6 !important;" width="670">
+                <tr>
+                    <td style="padding: 16px 24px;color: #000;font-size: 10px;line-height: 12px;font-family: Arial, Helvetica, sans-serif; background-color:#E6E6E6 !important;">This email was sent to <a style="text-decoration:none;font-weight: 700;color: #000 !important;" target="_blank">BJONES@MKITCHEN.COM</a> by United Airlines. Please do not reply to this email. If you have questions about this message, please see our <a  style="text-decoration:underline;font-weight:700;color: #000 !important;" target="_blank">privacy policy</a> or <a style="text-decoration:underline;font-weight:700;color: #000 !important;" target="_blank">contact us</a>.
+        </td>
+                </tr>
+            </table>
+            <table align="center" bgcolor="#E6E6E6" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" role="presentation" style="width:670px; background-color:#E6E6E6 !important;" width="670">
+                <tr>
+                    <td class="ft_mobile_padding" style="padding: 0 24px 16px 24px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                            <tr>
+                                <td class="em_defaultlink em_clear ft_mobile_cr_margin" style="color: #000;font-size: 10px;font-family: Arial, Helvetica, sans-serif;padding-right: 10px;">
+                ©2026 United Airlines. All rights reserved.
+                                    <br>
+                                    United Airlines, Inc. 233 S. Wacker Drive Chicago, IL 60606
+              </td><td align="right" class="em_clear ft_logo_align" valign="top">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="ft_logo_align" role="presentation" style="width:214px;text-align:right;" width="214">
+                                        <tr>
+                                            <td align="left" height="24" valign="top" width="214"><img alt="" border="0" height="24" src="data:image/png;base64, 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" style="margin: 0;padding: 0;display: block;width:214px;height:24px;" width="214"></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    <img src="https://notification.united.com/ss/o/u001.LZNHdWr6Obv00oS2eiPd0w/4rh/WCiHN90dQBGphsGrQBOayQ/ho.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
